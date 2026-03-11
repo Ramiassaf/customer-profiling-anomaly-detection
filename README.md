@@ -106,7 +106,7 @@ project/
 To clone this repository locally:
 
 ```bash
-git clone 
+git clone https://github.com/Ramiassaf/customer-profiling-anomaly-detection.git
 
 Author
 Rami Assaf
