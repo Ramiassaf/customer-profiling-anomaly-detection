@@ -74,6 +74,7 @@ Customer segmentation was performed using **K-Means clustering**, which grouped 
 
 ---
 ## Project Structure
+```
 project/
 │
 ├── notebooks/
@@ -89,7 +90,8 @@ project/
 │
 ├── main.py
 └── README.md
-
+*****
+```
 ---
 
 
